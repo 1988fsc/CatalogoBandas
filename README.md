@@ -1,2 +1,2 @@
 # CatalogoBandas
-Catalogo de Bandas ondem podem ser classificadas
+Catalogo classificação de Bandas 
